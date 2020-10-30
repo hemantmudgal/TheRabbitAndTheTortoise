@@ -1,3 +1,9 @@
+/*   Created by IntelliJ IDEA.
+ *   Author: Hemant Mudgal
+ *   Date: 29-10-2020
+ *   Time: 16:32
+ *   File: Tortoise.java
+ */
 package main;
 
 import thread.rabbit.Rabbit;
